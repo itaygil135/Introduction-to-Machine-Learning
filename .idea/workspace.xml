@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fde60759-53be-4d28-aaab-afe5a23e7cca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/desent_methods/gradient_descent.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/desent_methods/gradient_descent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/desent_methods/learning_rate.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/desent_methods/learning_rate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/desent_methods/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/desent_methods/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/classifiers/decision_stump.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/classifiers/decision_stump.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/classifiers/gaussian_naive_bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/classifiers/gaussian_naive_bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/classifiers/linear_discriminant_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/classifiers/linear_discriminant_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/classifiers/logistic_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/classifiers/logistic_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/classifiers/perceptron.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/classifiers/perceptron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/gaussian_estimators.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/gaussian_estimators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/regressors/linear_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/regressors/linear_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/regressors/polynomial_fitting.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/regressors/polynomial_fitting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/regressors/ridge_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/learners/regressors/ridge_regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/metalearners/adaboost.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/metalearners/adaboost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/metrics/loss_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/metrics/loss_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/model_selection/cross_validate.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/model_selection/cross_validate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/IMLearn/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/IMLearn/utils/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/environment.yml" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/environment.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/exercises/adaboost_scenario.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/exercises/adaboost_scenario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/exercises/city_temperature_prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/exercises/city_temperature_prediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/exercises/classifiers_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/exercises/classifiers_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/exercises/fit_gaussian_estimators.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/exercises/fit_gaussian_estimators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/exercises/gradient_descent_investigation.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/exercises/gradient_descent_investigation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/exercises/house_price_prediction.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/exercises/house_price_prediction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/exercises/perform_model_selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/exercises/perform_model_selection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IML.HUJI/lab/Lab 00 - A - Data Analysis In Python - First Steps.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/IML.HUJI/lab/Lab 00 - A - Data Analysis In Python - First Steps.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/IML.HUJI" />
+  </component>
+  <component name="ProjectId" id="2Nh9ejKdG3uTsKbJx1EN1V2mm3g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fde60759-53be-4d28-aaab-afe5a23e7cca" name="Changes" comment="" />
+      <created>1680105546899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680105546899</updated>
+      <workItem from="1680105548721" duration="98000" />
+      <workItem from="1709221370694" duration="104000" />
+      <workItem from="1709221677120" duration="8000" />
+      <workItem from="1709221996264" duration="425000" />
+      <workItem from="1709222478319" duration="11000" />
+      <workItem from="1709222779276" duration="2000" />
+      <workItem from="1709223003314" duration="9000" />
+      <workItem from="1709223724224" duration="11000" />
+      <workItem from="1709224048538" duration="116000" />
+      <workItem from="1709224190089" duration="130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
